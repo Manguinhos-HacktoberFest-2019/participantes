@@ -1,2 +1,6 @@
-# participantes
-Participantes do evento =)
+# Participantes
+    
+
+# Organizadores
+    
+Gary M. Silva - @garymsilva
