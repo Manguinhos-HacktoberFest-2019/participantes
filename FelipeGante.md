@@ -1,3 +1,3 @@
-Nome: <span style="color:green"> Felipe</span>
+Nome: <font style="color:green"> Felipe</font>
 
-Hobby: <span style="color:red">Ser o Gary</span> 
+Hobby: <font style="color:red">Ser o Gary</font> 
