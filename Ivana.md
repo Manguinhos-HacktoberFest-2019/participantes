@@ -1,6 +1,6 @@
 #Ivana Amorim Julião
 
-##Hobes:
+##Hobbies:
 - Assistir filmes e seriados
 - Ler livros
 - Dormir
